@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # study-1
 
 ## Project setup
@@ -22,3 +23,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# VueStudy
+>>>>>>> 2451eaad6195e860a11e999cfca10e6585b7883e
